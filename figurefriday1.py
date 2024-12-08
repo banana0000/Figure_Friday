@@ -122,4 +122,4 @@ def update_chart_and_summary(selected_year_range):
 
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run()
